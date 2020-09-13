@@ -1,1 +1,2 @@
 # Fire-Monitoring-System-For-Multistorey-Building
+This project can be used for both office and industrial uses. It is used to alert the users/fire fighter on the event of fire. Room temperature and humidity will be periodically updated to the thingspeak cloud and to blynk  application .  When the fire is detected buzzer start beeping and  relay will be turned on. On the event of fire user will be alerted with a particular location/floor and it also display real time temperature and humidity of the building.
